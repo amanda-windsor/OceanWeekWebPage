@@ -1,0 +1,11 @@
+@charset "utf8";
+
+p {font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"; font-size: 15px}
+p2 {font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"; font-size: 18px}
+p3 {font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"; font-size: 18px; color: #00769F}
+h3 {font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"; color: #00769F}
+h4 {font-family: sans-serif; color: #5F646A; font-size: 20px}
+h5 {font-size: 14px}
+strong {color: #3C818E; font-size: 20px}
+footer {font-size: 10px}
+
