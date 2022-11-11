@@ -1,7 +1,7 @@
 # OceanWeekWebPage
 
 
-My first ever Web Page!
+My first ever Web Page! :P
 
 
 Assignment by Amanda Windsor for Web Design.
